@@ -11,7 +11,7 @@ github_repo: "https://github.com/nitianze/nitianze.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "小学生"
+sidebar-about-description: "矿大附小五（2），3-3"
 sidebar-avatar: /img/109951163674956328.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,7 +19,7 @@ sidebar-avatar: /img/109951163674956328.jpg      # use absolute URL, seeing it's
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     小天泽泽
+#zhihu_username:     小天泽泽
 github_username:    nitianze
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
@@ -64,7 +64,7 @@ gitalk:
   enable: false    #是否开启Gitalk评论
   clientID: 77f788d51e2258329850                            #生成的clientID
   clientSecret: 012aa3e0942b5340cf962db0d7df9ec345e5a467    #生成的clientSecret
-  repo: nitianze.github.io    #仓库名称
+  repo: https://github.com/nitianze/nitianze.github.io.git    #仓库名称
   owner: nitianze    #github用户名
   admin: ['nitianze']
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
@@ -85,7 +85,7 @@ ga_domain: auto               # 默认的是 auto, 这里我是自定义了的�
 
 
 # Featured Tags
-featured-tags: false                     # 是否使用首页标签
+featured-tags: true                     # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
