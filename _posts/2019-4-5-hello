@@ -1,14 +1,14 @@
 ---
-layout: post
-title: 我的第一篇
-subtitle: hello
-date: 2019-4-5
-author: nitianze
-header-img: img/post-bg-ios10.jpg
-catalog: true
+layout:     post
+title:      Hello
+subtitle:   My first post.
+date:       2019-4-5
+author:     nitianze
+header-img: img/post-bg-ios9-web.jpg
+catalog: 	 true
 tags:
-    -Life
+    - Life
 ---
 
 ## Hey
->test
+>hey
