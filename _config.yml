@@ -66,7 +66,7 @@ gitalk:
   clientSecret: 012aa3e0942b5340cf962db0d7df9ec345e5a467    #生成的clientSecret
   repo: nitianze.github.io    #仓库名称
   owner: nitianze    #github用户名
-  admin: ["nitianze"]
+  admin: ['nitianze']
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
