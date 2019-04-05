@@ -59,14 +59,15 @@ kramdown:
 # Disqus（https://disqus.com/）
 # disqus_username: qiubaiying
 
-# Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 77f788d51e2258329850                            #生成的clientID
-  clientSecret: 012aa3e0942b5340cf962db0d7df9ec345e5a467    #生成的clientSecret
-  repo: https://github.com/nitianze/nitianze.github.io.git    #仓库名称
-  owner: nitianze    #github用户名
-  admin: ['nitianze']
+#gitalk评论
+gitalk：
+  enable： true  #是否开启
+  githubID： nitianze  #你的Github用户名
+  repo： nitianze.github.io  #Github仓库名称
+  ClientID： 77f788d51e2258329850  #创建的应用ClientID 
+  ClientSecret： 012aa3e0942b5340cf962db0d7df9ec345e5a467  #创建的应用ClientSecret 
+  adminUser： nitianze  #评论初始化账户（GitHub ID）
+  distractionFreeMode： false  #是否开启分心自由模式也就是免打扰
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
